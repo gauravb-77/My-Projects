@@ -1,8 +1,3 @@
-# no of guesses = 9
-# print the number of guesses left
-# No of guesses he took to finish
-# after winning type as 'You Won'
-# after completing all attempts type as 'Game Over'
 
 comp_num = 24
 print('Welcome to The Number Guessing Game! In this game you have 9 guesses. So let\'s play the game.')
